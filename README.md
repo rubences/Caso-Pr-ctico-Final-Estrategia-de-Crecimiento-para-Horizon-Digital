@@ -1,7 +1,25 @@
 # Caso Práctico Final: Estrategia de Crecimiento para "Horizon Digital"
 Empresa: Horizon Digital Contexto: Eres el nuevo Científico de Datos de "Horizon Digital", una empresa de e-commerce que vende una variedad de productos electrónicos. La dirección quiere lanzar una nueva estrategia para el próximo año fiscal y te ha encargado realizar un análisis de 360 grados de los datos de los clientes y las ventas para fundamentar sus decisiones.
 
-Dataset: Se te proporciona un archivo ecommerce_data.csv con los siguientes campos:
+proyecto Objetivo: Desarrollar un análisis integral que incluya análisis exploratorio de datos (EDA), modelos predictivos (regresión y clasificación), segmentación de clientes (clustering) y pronóstico de ventas (series temporales).
+
+## VISUALIZACIÓN DE DATOS Y ANÁLISIS EXPLORATORIO DE DATOS (EDA) 📊
+
+https://umber-year-57965818.figma.site/
+
+## Requisitos del Proyecto
+Lenguaje: Python
+Librerías: pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels
+Entorno: Jupyter Notebook
+## Estructura del Proyecto
+
+- data/: Contendrá los datos originales y procesados.
+- notebooks/: Contendrá los Jupyter Notebooks con el análisis y modelado.
+- src/: Contendrá el código fuente para la preparación de datos, modelado y evaluación.
+- requirements.txt: Listado de dependencias del proyecto.
+## Dataset
+
+Se te proporciona un archivo ecommerce_data.csv con los siguientes campos:
 
 CustomerID: Identificador único del cliente.
 Age: Edad del cliente.
@@ -73,3 +91,5 @@ Visualiza el Futuro: Crea un gráfico que muestre los datos históricos y el pro
 Debes entregar un único Jupyter Notebook que contenga las cinco misiones. El notebook debe estar bien estructurado, con títulos claros para cada misión, código funcional y celdas de Markdown con tus explicaciones, interpretaciones y conclusiones para cada tarea.
 
 Al final del notebook, incluye una sección de "Recomendaciones Estratégicas Generales" donde resumas tus hallazgos de las cinco misiones y ofrezcas 3 recomendaciones clave a la dirección de "Horizon Digital".
+
+# ¡Buena suerte y feliz análisis de datos! 🚀
