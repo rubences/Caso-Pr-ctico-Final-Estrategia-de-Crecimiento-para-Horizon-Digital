@@ -93,3 +93,9 @@ Debes entregar un único Jupyter Notebook que contenga las cinco misiones. El no
 Al final del notebook, incluye una sección de "Recomendaciones Estratégicas Generales" donde resumas tus hallazgos de las cinco misiones y ofrezcas 3 recomendaciones clave a la dirección de "Horizon Digital".
 
 # ¡Buena suerte y feliz análisis de datos! 🚀
+
+# Como reslultado final, se espera un análisis exhaustivo que no solo demuestre habilidades técnicas en ciencia de datos, sino que también aporte valor estratégico a la empresa "Horizon Digital". y a modo de web os paso el siguiente enlace
+
+https://maker-fabric-79751817.figma.site/
+
+
